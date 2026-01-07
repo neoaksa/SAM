@@ -1,0 +1,3165 @@
+{
+    "room_type": "Bedroom",
+    "total_items_detected": 186,
+    "items": [
+        {
+            "item_id": 0,
+            "center_point": [
+                1536,
+                1073
+            ],
+            "bbox_xywh": [
+                1392,
+                899,
+                288,
+                348
+            ],
+            "area_px": 44554,
+            "confidence": 0.9937624931335449,
+            "label": "folded clothes",
+            "label_confidence": 0.6861
+        },
+        {
+            "item_id": 1,
+            "center_point": [
+                2510,
+                879
+            ],
+            "bbox_xywh": [
+                2393,
+                830,
+                234,
+                99
+            ],
+            "area_px": 19999,
+            "confidence": 0.9933980107307434,
+            "label": "door",
+            "label_confidence": 0.3664
+        },
+        {
+            "item_id": 2,
+            "center_point": [
+                2813,
+                1084
+            ],
+            "bbox_xywh": [
+                2715,
+                965,
+                196,
+                239
+            ],
+            "area_px": 24698,
+            "confidence": 0.9901160597801208,
+            "label": "folded clothes",
+            "label_confidence": 0.5722
+        },
+        {
+            "item_id": 3,
+            "center_point": [
+                1722,
+                909
+            ],
+            "bbox_xywh": [
+                1677,
+                805,
+                91,
+                208
+            ],
+            "area_px": 14276,
+            "confidence": 0.9892162680625916,
+            "label": "folded clothes",
+            "label_confidence": 0.7794
+        },
+        {
+            "item_id": 4,
+            "center_point": [
+                1376,
+                1113
+            ],
+            "bbox_xywh": [
+                1321,
+                990,
+                111,
+                247
+            ],
+            "area_px": 20521,
+            "confidence": 0.987935483455658,
+            "label": "shoe",
+            "label_confidence": 0.3262
+        },
+        {
+            "item_id": 5,
+            "center_point": [
+                1481,
+                674
+            ],
+            "bbox_xywh": [
+                1363,
+                497,
+                237,
+                355
+            ],
+            "area_px": 80733,
+            "confidence": 0.9839875102043152,
+            "label": "door",
+            "label_confidence": 0.4337
+        },
+        {
+            "item_id": 6,
+            "center_point": [
+                2243,
+                697
+            ],
+            "bbox_xywh": [
+                2096,
+                587,
+                294,
+                220
+            ],
+            "area_px": 36278,
+            "confidence": 0.9787746667861938,
+            "label": "folded clothes",
+            "label_confidence": 0.8932
+        },
+        {
+            "item_id": 7,
+            "center_point": [
+                1725,
+                1288
+            ],
+            "bbox_xywh": [
+                1547,
+                1217,
+                356,
+                142
+            ],
+            "area_px": 27438,
+            "confidence": 0.9773278832435608,
+            "label": "folded clothes",
+            "label_confidence": 0.7062
+        },
+        {
+            "item_id": 8,
+            "center_point": [
+                1851,
+                1216
+            ],
+            "bbox_xywh": [
+                1769,
+                1184,
+                164,
+                64
+            ],
+            "area_px": 6326,
+            "confidence": 0.9755460619926453,
+            "label": "folded clothes",
+            "label_confidence": 0.6042
+        },
+        {
+            "item_id": 9,
+            "center_point": [
+                2304,
+                634
+            ],
+            "bbox_xywh": [
+                2280,
+                614,
+                48,
+                41
+            ],
+            "area_px": 1819,
+            "confidence": 0.9744786024093628,
+            "label": "floor",
+            "label_confidence": 0.3289
+        },
+        {
+            "item_id": 10,
+            "center_point": [
+                2381,
+                1096
+            ],
+            "bbox_xywh": [
+                2116,
+                1009,
+                531,
+                175
+            ],
+            "area_px": 57580,
+            "confidence": 0.9723299145698547,
+            "label": "folded clothes",
+            "label_confidence": 0.9603
+        },
+        {
+            "item_id": 11,
+            "center_point": [
+                2399,
+                1251
+            ],
+            "bbox_xywh": [
+                2282,
+                1202,
+                234,
+                99
+            ],
+            "area_px": 16281,
+            "confidence": 0.9718185067176819,
+            "label": "folded clothes",
+            "label_confidence": 0.5677
+        },
+        {
+            "item_id": 12,
+            "center_point": [
+                1317,
+                925
+            ],
+            "bbox_xywh": [
+                1252,
+                893,
+                131,
+                64
+            ],
+            "area_px": 3911,
+            "confidence": 0.9703447222709656,
+            "label": "folded clothes",
+            "label_confidence": 0.2263
+        },
+        {
+            "item_id": 13,
+            "center_point": [
+                2260,
+                881
+            ],
+            "bbox_xywh": [
+                2136,
+                833,
+                249,
+                96
+            ],
+            "area_px": 19619,
+            "confidence": 0.9693296551704407,
+            "label": "folded clothes",
+            "label_confidence": 0.5658
+        },
+        {
+            "item_id": 14,
+            "center_point": [
+                2419,
+                1122
+            ],
+            "bbox_xywh": [
+                2344,
+                1024,
+                151,
+                197
+            ],
+            "area_px": 19266,
+            "confidence": 0.9634665846824646,
+            "label": "folded clothes",
+            "label_confidence": 0.8056
+        },
+        {
+            "item_id": 15,
+            "center_point": [
+                2253,
+                1353
+            ],
+            "bbox_xywh": [
+                2015,
+                1298,
+                477,
+                111
+            ],
+            "area_px": 27518,
+            "confidence": 0.9624983072280884,
+            "label": "shoe",
+            "label_confidence": 0.7448
+        },
+        {
+            "item_id": 16,
+            "center_point": [
+                2732,
+                1153
+            ],
+            "bbox_xywh": [
+                2628,
+                1122,
+                208,
+                62
+            ],
+            "area_px": 7849,
+            "confidence": 0.962300717830658,
+            "label": "shoe",
+            "label_confidence": 0.4098
+        },
+        {
+            "item_id": 17,
+            "center_point": [
+                1674,
+                1185
+            ],
+            "bbox_xywh": [
+                1594,
+                1132,
+                160,
+                106
+            ],
+            "area_px": 10599,
+            "confidence": 0.9612517356872559,
+            "label": "folded clothes",
+            "label_confidence": 0.3512
+        },
+        {
+            "item_id": 18,
+            "center_point": [
+                1781,
+                1327
+            ],
+            "bbox_xywh": [
+                1657,
+                1282,
+                248,
+                91
+            ],
+            "area_px": 10721,
+            "confidence": 0.9611232876777649,
+            "label": "shoe",
+            "label_confidence": 0.2701
+        },
+        {
+            "item_id": 19,
+            "center_point": [
+                1899,
+                987
+            ],
+            "bbox_xywh": [
+                1753,
+                846,
+                292,
+                282
+            ],
+            "area_px": 19366,
+            "confidence": 0.9610646963119507,
+            "label": "wooden nightstand",
+            "label_confidence": 0.6063
+        },
+        {
+            "item_id": 20,
+            "center_point": [
+                1817,
+                926
+            ],
+            "bbox_xywh": [
+                1767,
+                897,
+                100,
+                59
+            ],
+            "area_px": 4016,
+            "confidence": 0.9600461721420288,
+            "label": "shoe",
+            "label_confidence": 0.2655
+        },
+        {
+            "item_id": 21,
+            "center_point": [
+                1932,
+                1334
+            ],
+            "bbox_xywh": [
+                1820,
+                1294,
+                224,
+                81
+            ],
+            "area_px": 10858,
+            "confidence": 0.9594183564186096,
+            "label": "shoe",
+            "label_confidence": 0.8256
+        },
+        {
+            "item_id": 22,
+            "center_point": [
+                1806,
+                989
+            ],
+            "bbox_xywh": [
+                1736,
+                897,
+                141,
+                184
+            ],
+            "area_px": 9578,
+            "confidence": 0.9591485261917114,
+            "label": "floor",
+            "label_confidence": 0.6564
+        },
+        {
+            "item_id": 23,
+            "center_point": [
+                2044,
+                1194
+            ],
+            "bbox_xywh": [
+                1963,
+                1137,
+                163,
+                114
+            ],
+            "area_px": 8928,
+            "confidence": 0.9573753476142883,
+            "label": "shoe",
+            "label_confidence": 0.9052
+        },
+        {
+            "item_id": 24,
+            "center_point": [
+                2683,
+                1085
+            ],
+            "bbox_xywh": [
+                2645,
+                1041,
+                77,
+                89
+            ],
+            "area_px": 4504,
+            "confidence": 0.9555833339691162,
+            "label": "shoe",
+            "label_confidence": 0.3721
+        },
+        {
+            "item_id": 25,
+            "center_point": [
+                2563,
+                1085
+            ],
+            "bbox_xywh": [
+                2477,
+                1008,
+                172,
+                154
+            ],
+            "area_px": 11756,
+            "confidence": 0.9510729312896729,
+            "label": "bed",
+            "label_confidence": 0.5043
+        },
+        {
+            "item_id": 26,
+            "center_point": [
+                1574,
+                986
+            ],
+            "bbox_xywh": [
+                1517,
+                956,
+                114,
+                60
+            ],
+            "area_px": 4210,
+            "confidence": 0.9501892924308777,
+            "label": "folded clothes",
+            "label_confidence": 0.2462
+        },
+        {
+            "item_id": 27,
+            "center_point": [
+                1837,
+                1327
+            ],
+            "bbox_xywh": [
+                1631,
+                1280,
+                412,
+                95
+            ],
+            "area_px": 22108,
+            "confidence": 0.9498327970504761,
+            "label": "folded clothes",
+            "label_confidence": 0.6436
+        },
+        {
+            "item_id": 28,
+            "center_point": [
+                2553,
+                740
+            ],
+            "bbox_xywh": [
+                2530,
+                728,
+                47,
+                24
+            ],
+            "area_px": 969,
+            "confidence": 0.9491950273513794,
+            "label": "wall",
+            "label_confidence": 0.3958
+        },
+        {
+            "item_id": 29,
+            "center_point": [
+                1904,
+                1289
+            ],
+            "bbox_xywh": [
+                1842,
+                1276,
+                124,
+                27
+            ],
+            "area_px": 1499,
+            "confidence": 0.9452207684516907,
+            "label": "shoe",
+            "label_confidence": 0.349
+        },
+        {
+            "item_id": 30,
+            "center_point": [
+                1996,
+                1156
+            ],
+            "bbox_xywh": [
+                1964,
+                1137,
+                65,
+                39
+            ],
+            "area_px": 2254,
+            "confidence": 0.9442477226257324,
+            "label": "shoe",
+            "label_confidence": 0.5063
+        },
+        {
+            "item_id": 31,
+            "center_point": [
+                2095,
+                1202
+            ],
+            "bbox_xywh": [
+                2066,
+                1153,
+                59,
+                99
+            ],
+            "area_px": 4902,
+            "confidence": 0.9406271576881409,
+            "label": "shoe",
+            "label_confidence": 0.5193
+        },
+        {
+            "item_id": 32,
+            "center_point": [
+                1479,
+                589
+            ],
+            "bbox_xywh": [
+                1366,
+                499,
+                227,
+                181
+            ],
+            "area_px": 39015,
+            "confidence": 0.9401742219924927,
+            "label": "door",
+            "label_confidence": 0.3314
+        },
+        {
+            "item_id": 33,
+            "center_point": [
+                2619,
+                1236
+            ],
+            "bbox_xywh": [
+                2504,
+                1179,
+                230,
+                115
+            ],
+            "area_px": 10708,
+            "confidence": 0.9400969743728638,
+            "label": "folded clothes",
+            "label_confidence": 0.641
+        },
+        {
+            "item_id": 34,
+            "center_point": [
+                2027,
+                1156
+            ],
+            "bbox_xywh": [
+                1964,
+                1136,
+                126,
+                40
+            ],
+            "area_px": 4123,
+            "confidence": 0.9392775297164917,
+            "label": "floor",
+            "label_confidence": 0.3176
+        },
+        {
+            "item_id": 35,
+            "center_point": [
+                2220,
+                692
+            ],
+            "bbox_xywh": [
+                2199,
+                679,
+                42,
+                26
+            ],
+            "area_px": 712,
+            "confidence": 0.935518205165863,
+            "label": "shoe",
+            "label_confidence": 0.489
+        },
+        {
+            "item_id": 36,
+            "center_point": [
+                2806,
+                1413
+            ],
+            "bbox_xywh": [
+                2702,
+                1403,
+                209,
+                20
+            ],
+            "area_px": 3092,
+            "confidence": 0.9305446743965149,
+            "label": "wall",
+            "label_confidence": 0.6873
+        },
+        {
+            "item_id": 37,
+            "center_point": [
+                2259,
+                733
+            ],
+            "bbox_xywh": [
+                2182,
+                687,
+                154,
+                92
+            ],
+            "area_px": 9446,
+            "confidence": 0.9300019145011902,
+            "label": "folded clothes",
+            "label_confidence": 0.8447
+        },
+        {
+            "item_id": 38,
+            "center_point": [
+                2343,
+                1219
+            ],
+            "bbox_xywh": [
+                2317,
+                1209,
+                52,
+                21
+            ],
+            "area_px": 730,
+            "confidence": 0.9293633699417114,
+            "label": "wall",
+            "label_confidence": 0.7517
+        },
+        {
+            "item_id": 39,
+            "center_point": [
+                1804,
+                1397
+            ],
+            "bbox_xywh": [
+                1700,
+                1377,
+                209,
+                41
+            ],
+            "area_px": 2757,
+            "confidence": 0.9269745945930481,
+            "label": "shoe",
+            "label_confidence": 0.4295
+        },
+        {
+            "item_id": 40,
+            "center_point": [
+                1593,
+                819
+            ],
+            "bbox_xywh": [
+                1579,
+                781,
+                28,
+                77
+            ],
+            "area_px": 2201,
+            "confidence": 0.9263547658920288,
+            "label": "wall",
+            "label_confidence": 0.2481
+        },
+        {
+            "item_id": 41,
+            "center_point": [
+                2244,
+                1070
+            ],
+            "bbox_xywh": [
+                2119,
+                1022,
+                251,
+                96
+            ],
+            "area_px": 16911,
+            "confidence": 0.9226236343383789,
+            "label": "bed",
+            "label_confidence": 0.422
+        },
+        {
+            "item_id": 42,
+            "center_point": [
+                1612,
+                1369
+            ],
+            "bbox_xywh": [
+                1351,
+                1307,
+                522,
+                125
+            ],
+            "area_px": 27045,
+            "confidence": 0.9218942523002625,
+            "label": "folded clothes",
+            "label_confidence": 0.6696
+        },
+        {
+            "item_id": 43,
+            "center_point": [
+                2815,
+                1203
+            ],
+            "bbox_xywh": [
+                2720,
+                1164,
+                191,
+                79
+            ],
+            "area_px": 11179,
+            "confidence": 0.9218227863311768,
+            "label": "shoe",
+            "label_confidence": 0.31
+        },
+        {
+            "item_id": 44,
+            "center_point": [
+                2250,
+                636
+            ],
+            "bbox_xywh": [
+                2223,
+                617,
+                54,
+                39
+            ],
+            "area_px": 1691,
+            "confidence": 0.9214605689048767,
+            "label": "floor",
+            "label_confidence": 0.7588
+        },
+        {
+            "item_id": 45,
+            "center_point": [
+                1804,
+                799
+            ],
+            "bbox_xywh": [
+                1758,
+                778,
+                93,
+                43
+            ],
+            "area_px": 3528,
+            "confidence": 0.9194491505622864,
+            "label": "books",
+            "label_confidence": 0.2004
+        },
+        {
+            "item_id": 46,
+            "center_point": [
+                2452,
+                800
+            ],
+            "bbox_xywh": [
+                2424,
+                792,
+                57,
+                16
+            ],
+            "area_px": 760,
+            "confidence": 0.9193419218063354,
+            "label": "wall",
+            "label_confidence": 0.3142
+        },
+        {
+            "item_id": 47,
+            "center_point": [
+                2093,
+                1237
+            ],
+            "bbox_xywh": [
+                2065,
+                1222,
+                56,
+                30
+            ],
+            "area_px": 1401,
+            "confidence": 0.9155154228210449,
+            "label": "lamp",
+            "label_confidence": 0.2242
+        },
+        {
+            "item_id": 48,
+            "center_point": [
+                1479,
+                763
+            ],
+            "bbox_xywh": [
+                1365,
+                679,
+                228,
+                169
+            ],
+            "area_px": 35281,
+            "confidence": 0.91489577293396,
+            "label": "wall",
+            "label_confidence": 0.3496
+        },
+        {
+            "item_id": 49,
+            "center_point": [
+                1913,
+                812
+            ],
+            "bbox_xywh": [
+                1899,
+                807,
+                28,
+                10
+            ],
+            "area_px": 276,
+            "confidence": 0.9130885601043701,
+            "label": "too_small"
+        },
+        {
+            "item_id": 50,
+            "center_point": [
+                1895,
+                1233
+            ],
+            "bbox_xywh": [
+                1874,
+                1219,
+                43,
+                29
+            ],
+            "area_px": 668,
+            "confidence": 0.9123120903968811,
+            "label": "shoe",
+            "label_confidence": 0.3868
+        },
+        {
+            "item_id": 51,
+            "center_point": [
+                2704,
+                1039
+            ],
+            "bbox_xywh": [
+                2646,
+                950,
+                116,
+                178
+            ],
+            "area_px": 15496,
+            "confidence": 0.9095503091812134,
+            "label": "folded clothes",
+            "label_confidence": 0.8793
+        },
+        {
+            "item_id": 52,
+            "center_point": [
+                1486,
+                893
+            ],
+            "bbox_xywh": [
+                1312,
+                848,
+                349,
+                90
+            ],
+            "area_px": 14835,
+            "confidence": 0.907728910446167,
+            "label": "bed",
+            "label_confidence": 0.5256
+        },
+        {
+            "item_id": 53,
+            "center_point": [
+                1452,
+                1334
+            ],
+            "bbox_xywh": [
+                1355,
+                1306,
+                194,
+                56
+            ],
+            "area_px": 7451,
+            "confidence": 0.9065678119659424,
+            "label": "shoe",
+            "label_confidence": 0.5671
+        },
+        {
+            "item_id": 54,
+            "center_point": [
+                2427,
+                1128
+            ],
+            "bbox_xywh": [
+                2389,
+                1035,
+                76,
+                187
+            ],
+            "area_px": 9609,
+            "confidence": 0.9058000445365906,
+            "label": "folded clothes",
+            "label_confidence": 0.6282
+        },
+        {
+            "item_id": 55,
+            "center_point": [
+                1946,
+                871
+            ],
+            "bbox_xywh": [
+                1879,
+                850,
+                135,
+                43
+            ],
+            "area_px": 3403,
+            "confidence": 0.8981144428253174,
+            "label": "books",
+            "label_confidence": 0.429
+        },
+        {
+            "item_id": 56,
+            "center_point": [
+                1499,
+                976
+            ],
+            "bbox_xywh": [
+                1368,
+                937,
+                262,
+                79
+            ],
+            "area_px": 4804,
+            "confidence": 0.8949502110481262,
+            "label": "folded clothes",
+            "label_confidence": 0.6042
+        },
+        {
+            "item_id": 57,
+            "center_point": [
+                2441,
+                740
+            ],
+            "bbox_xywh": [
+                2387,
+                709,
+                109,
+                63
+            ],
+            "area_px": 2777,
+            "confidence": 0.8948400616645813,
+            "label": "bed",
+            "label_confidence": 0.6333
+        },
+        {
+            "item_id": 58,
+            "center_point": [
+                1812,
+                887
+            ],
+            "bbox_xywh": [
+                1762,
+                859,
+                100,
+                57
+            ],
+            "area_px": 2926,
+            "confidence": 0.8891510367393494,
+            "label": "shoe",
+            "label_confidence": 0.2435
+        },
+        {
+            "item_id": 59,
+            "center_point": [
+                1757,
+                1356
+            ],
+            "bbox_xywh": [
+                1672,
+                1340,
+                170,
+                33
+            ],
+            "area_px": 4567,
+            "confidence": 0.8887425065040588,
+            "label": "wall",
+            "label_confidence": 0.2693
+        },
+        {
+            "item_id": 60,
+            "center_point": [
+                1806,
+                1015
+            ],
+            "bbox_xywh": [
+                1735,
+                951,
+                142,
+                129
+            ],
+            "area_px": 4722,
+            "confidence": 0.8801145553588867,
+            "label": "shoe",
+            "label_confidence": 0.5519
+        },
+        {
+            "item_id": 61,
+            "center_point": [
+                1581,
+                831
+            ],
+            "bbox_xywh": [
+                1549,
+                781,
+                64,
+                100
+            ],
+            "area_px": 3314,
+            "confidence": 0.8767538070678711,
+            "label": "window",
+            "label_confidence": 0.6014
+        },
+        {
+            "item_id": 62,
+            "center_point": [
+                1998,
+                796
+            ],
+            "bbox_xywh": [
+                1956,
+                785,
+                85,
+                23
+            ],
+            "area_px": 1547,
+            "confidence": 0.8721727132797241,
+            "label": "shoe",
+            "label_confidence": 0.2684
+        },
+        {
+            "item_id": 63,
+            "center_point": [
+                2217,
+                797
+            ],
+            "bbox_xywh": [
+                2201,
+                789,
+                33,
+                17
+            ],
+            "area_px": 543,
+            "confidence": 0.8721680641174316,
+            "label": "wall",
+            "label_confidence": 0.3116
+        },
+        {
+            "item_id": 64,
+            "center_point": [
+                1913,
+                832
+            ],
+            "bbox_xywh": [
+                1898,
+                807,
+                30,
+                51
+            ],
+            "area_px": 1324,
+            "confidence": 0.8681913614273071,
+            "label": "floor",
+            "label_confidence": 0.3564
+        },
+        {
+            "item_id": 65,
+            "center_point": [
+                2117,
+                698
+            ],
+            "bbox_xywh": [
+                2111,
+                676,
+                12,
+                45
+            ],
+            "area_px": 505,
+            "confidence": 0.8677529692649841,
+            "label": "door",
+            "label_confidence": 0.1747
+        },
+        {
+            "item_id": 66,
+            "center_point": [
+                2806,
+                1249
+            ],
+            "bbox_xywh": [
+                2740,
+                1230,
+                132,
+                38
+            ],
+            "area_px": 2772,
+            "confidence": 0.8636394143104553,
+            "label": "shoe",
+            "label_confidence": 0.344
+        },
+        {
+            "item_id": 67,
+            "center_point": [
+                935,
+                737
+            ],
+            "bbox_xywh": [
+                872,
+                634,
+                126,
+                207
+            ],
+            "area_px": 20585,
+            "confidence": 1.0009387731552124,
+            "label": "wall",
+            "label_confidence": 0.3762
+        },
+        {
+            "item_id": 68,
+            "center_point": [
+                752,
+                1350
+            ],
+            "bbox_xywh": [
+                0,
+                1264,
+                1504,
+                173
+            ],
+            "area_px": 109446,
+            "confidence": 0.998981773853302,
+            "label": "folded clothes",
+            "label_confidence": 0.698
+        },
+        {
+            "item_id": 69,
+            "center_point": [
+                1320,
+                1092
+            ],
+            "bbox_xywh": [
+                1210,
+                947,
+                221,
+                290
+            ],
+            "area_px": 38421,
+            "confidence": 0.9987093210220337,
+            "label": "folded clothes",
+            "label_confidence": 0.8576
+        },
+        {
+            "item_id": 70,
+            "center_point": [
+                67,
+                947
+            ],
+            "bbox_xywh": [
+                0,
+                887,
+                135,
+                120
+            ],
+            "area_px": 11541,
+            "confidence": 0.991269588470459,
+            "label": "floor",
+            "label_confidence": 0.6554
+        },
+        {
+            "item_id": 71,
+            "center_point": [
+                449,
+                1221
+            ],
+            "bbox_xywh": [
+                389,
+                1177,
+                120,
+                88
+            ],
+            "area_px": 6394,
+            "confidence": 0.9878126978874207,
+            "label": "shoe",
+            "label_confidence": 0.9109
+        },
+        {
+            "item_id": 72,
+            "center_point": [
+                1207,
+                949
+            ],
+            "bbox_xywh": [
+                1109,
+                911,
+                196,
+                76
+            ],
+            "area_px": 9374,
+            "confidence": 0.9867127537727356,
+            "label": "folded clothes",
+            "label_confidence": 0.3759
+        },
+        {
+            "item_id": 73,
+            "center_point": [
+                1245,
+                939
+            ],
+            "bbox_xywh": [
+                1109,
+                892,
+                272,
+                94
+            ],
+            "area_px": 13172,
+            "confidence": 0.9743599891662598,
+            "label": "folded clothes",
+            "label_confidence": 0.8833
+        },
+        {
+            "item_id": 74,
+            "center_point": [
+                1305,
+                1020
+            ],
+            "bbox_xywh": [
+                1208,
+                947,
+                195,
+                146
+            ],
+            "area_px": 17949,
+            "confidence": 0.9733403325080872,
+            "label": "folded clothes",
+            "label_confidence": 0.8574
+        },
+        {
+            "item_id": 75,
+            "center_point": [
+                1347,
+                1296
+            ],
+            "bbox_xywh": [
+                1188,
+                1264,
+                319,
+                65
+            ],
+            "area_px": 13361,
+            "confidence": 0.9725605845451355,
+            "label": "bed",
+            "label_confidence": 0.587
+        },
+        {
+            "item_id": 76,
+            "center_point": [
+                723,
+                995
+            ],
+            "bbox_xywh": [
+                617,
+                959,
+                212,
+                72
+            ],
+            "area_px": 11107,
+            "confidence": 0.9668654203414917,
+            "label": "door",
+            "label_confidence": 0.3298
+        },
+        {
+            "item_id": 77,
+            "center_point": [
+                67,
+                711
+            ],
+            "bbox_xywh": [
+                4,
+                517,
+                127,
+                389
+            ],
+            "area_px": 36507,
+            "confidence": 0.9641976356506348,
+            "label": "door",
+            "label_confidence": 0.8941
+        },
+        {
+            "item_id": 78,
+            "center_point": [
+                360,
+                1105
+            ],
+            "bbox_xywh": [
+                326,
+                1071,
+                69,
+                68
+            ],
+            "area_px": 2737,
+            "confidence": 0.9629688262939453,
+            "label": "shoe",
+            "label_confidence": 0.9896
+        },
+        {
+            "item_id": 79,
+            "center_point": [
+                949,
+                871
+            ],
+            "bbox_xywh": [
+                836,
+                828,
+                226,
+                86
+            ],
+            "area_px": 13633,
+            "confidence": 0.9619196653366089,
+            "label": "bed",
+            "label_confidence": 0.4676
+        },
+        {
+            "item_id": 80,
+            "center_point": [
+                1230,
+                1299
+            ],
+            "bbox_xywh": [
+                1188,
+                1271,
+                85,
+                56
+            ],
+            "area_px": 3085,
+            "confidence": 0.9575418829917908,
+            "label": "shoe",
+            "label_confidence": 0.3543
+        },
+        {
+            "item_id": 81,
+            "center_point": [
+                905,
+                878
+            ],
+            "bbox_xywh": [
+                835,
+                841,
+                141,
+                74
+            ],
+            "area_px": 7178,
+            "confidence": 0.9433947801589966,
+            "label": "shoe",
+            "label_confidence": 0.3809
+        },
+        {
+            "item_id": 82,
+            "center_point": [
+                374,
+                1033
+            ],
+            "bbox_xywh": [
+                153,
+                987,
+                442,
+                93
+            ],
+            "area_px": 11075,
+            "confidence": 0.938008725643158,
+            "label": "floor",
+            "label_confidence": 0.391
+        },
+        {
+            "item_id": 83,
+            "center_point": [
+                737,
+                818
+            ],
+            "bbox_xywh": [
+                690,
+                805,
+                94,
+                26
+            ],
+            "area_px": 1983,
+            "confidence": 0.9363054037094116,
+            "label": "wall",
+            "label_confidence": 0.3199
+        },
+        {
+            "item_id": 84,
+            "center_point": [
+                261,
+                1071
+            ],
+            "bbox_xywh": [
+                237,
+                1044,
+                48,
+                54
+            ],
+            "area_px": 1470,
+            "confidence": 0.9293278455734253,
+            "label": "shoe",
+            "label_confidence": 0.477
+        },
+        {
+            "item_id": 85,
+            "center_point": [
+                1104,
+                844
+            ],
+            "bbox_xywh": [
+                1024,
+                808,
+                160,
+                72
+            ],
+            "area_px": 6895,
+            "confidence": 0.9286982417106628,
+            "label": "bed",
+            "label_confidence": 0.5808
+        },
+        {
+            "item_id": 86,
+            "center_point": [
+                183,
+                1051
+            ],
+            "bbox_xywh": [
+                156,
+                1027,
+                55,
+                49
+            ],
+            "area_px": 1304,
+            "confidence": 0.9248585104942322,
+            "label": "shoe",
+            "label_confidence": 0.9763
+        },
+        {
+            "item_id": 87,
+            "center_point": [
+                686,
+                1081
+            ],
+            "bbox_xywh": [
+                662,
+                1041,
+                48,
+                80
+            ],
+            "area_px": 1360,
+            "confidence": 0.9236584305763245,
+            "label": "books",
+            "label_confidence": 0.3455
+        },
+        {
+            "item_id": 88,
+            "center_point": [
+                1249,
+                874
+            ],
+            "bbox_xywh": [
+                1137,
+                842,
+                224,
+                64
+            ],
+            "area_px": 7842,
+            "confidence": 0.9176111221313477,
+            "label": "bed",
+            "label_confidence": 0.5938
+        },
+        {
+            "item_id": 89,
+            "center_point": [
+                533,
+                1113
+            ],
+            "bbox_xywh": [
+                471,
+                1066,
+                124,
+                95
+            ],
+            "area_px": 6173,
+            "confidence": 0.9120700359344482,
+            "label": "books",
+            "label_confidence": 0.8954
+        },
+        {
+            "item_id": 90,
+            "center_point": [
+                797,
+                905
+            ],
+            "bbox_xywh": [
+                780,
+                874,
+                35,
+                62
+            ],
+            "area_px": 1984,
+            "confidence": 0.9026857018470764,
+            "label": "wall",
+            "label_confidence": 0.4277
+        },
+        {
+            "item_id": 91,
+            "center_point": [
+                491,
+                1098
+            ],
+            "bbox_xywh": [
+                475,
+                1066,
+                32,
+                64
+            ],
+            "area_px": 1304,
+            "confidence": 0.9023167490959167,
+            "label": "shoe",
+            "label_confidence": 0.249
+        },
+        {
+            "item_id": 92,
+            "center_point": [
+                797,
+                930
+            ],
+            "bbox_xywh": [
+                783,
+                924,
+                28,
+                13
+            ],
+            "area_px": 338,
+            "confidence": 0.9013250470161438,
+            "label": "too_small"
+        },
+        {
+            "item_id": 93,
+            "center_point": [
+                1539,
+                876
+            ],
+            "bbox_xywh": [
+                1495,
+                865,
+                89,
+                23
+            ],
+            "area_px": 1117,
+            "confidence": 0.8988375663757324,
+            "label": "wall",
+            "label_confidence": 0.1977
+        },
+        {
+            "item_id": 94,
+            "center_point": [
+                292,
+                1076
+            ],
+            "bbox_xywh": [
+                238,
+                1045,
+                108,
+                62
+            ],
+            "area_px": 4834,
+            "confidence": 0.8986762166023254,
+            "label": "shoe",
+            "label_confidence": 0.9954
+        },
+        {
+            "item_id": 95,
+            "center_point": [
+                50,
+                678
+            ],
+            "bbox_xywh": [
+                40,
+                670,
+                20,
+                16
+            ],
+            "area_px": 309,
+            "confidence": 0.8899015188217163,
+            "label": "too_small"
+        },
+        {
+            "item_id": 96,
+            "center_point": [
+                385,
+                1110
+            ],
+            "bbox_xywh": [
+                327,
+                1071,
+                116,
+                79
+            ],
+            "area_px": 5927,
+            "confidence": 0.8866920471191406,
+            "label": "shoe",
+            "label_confidence": 0.9826
+        },
+        {
+            "item_id": 97,
+            "center_point": [
+                417,
+                1407
+            ],
+            "bbox_xywh": [
+                316,
+                1394,
+                202,
+                27
+            ],
+            "area_px": 3965,
+            "confidence": 0.8862791657447815,
+            "label": "wall",
+            "label_confidence": 0.4788
+        },
+        {
+            "item_id": 98,
+            "center_point": [
+                798,
+                918
+            ],
+            "bbox_xywh": [
+                782,
+                900,
+                32,
+                36
+            ],
+            "area_px": 1048,
+            "confidence": 0.8786792159080505,
+            "label": "wall",
+            "label_confidence": 0.3647
+        },
+        {
+            "item_id": 99,
+            "center_point": [
+                1080,
+                849
+            ],
+            "bbox_xywh": [
+                1027,
+                819,
+                107,
+                61
+            ],
+            "area_px": 4189,
+            "confidence": 0.8771376609802246,
+            "label": "shoe",
+            "label_confidence": 0.3049
+        },
+        {
+            "item_id": 100,
+            "center_point": [
+                1267,
+                869
+            ],
+            "bbox_xywh": [
+                1172,
+                843,
+                190,
+                53
+            ],
+            "area_px": 5432,
+            "confidence": 0.8616029620170593,
+            "label": "bed",
+            "label_confidence": 0.5717
+        },
+        {
+            "item_id": 101,
+            "center_point": [
+                276,
+                1071
+            ],
+            "bbox_xywh": [
+                237,
+                1044,
+                79,
+                54
+            ],
+            "area_px": 1795,
+            "confidence": 0.860479474067688,
+            "label": "shoe",
+            "label_confidence": 0.9415
+        },
+        {
+            "item_id": 102,
+            "center_point": [
+                1475,
+                61
+            ],
+            "bbox_xywh": [
+                1247,
+                8,
+                456,
+                106
+            ],
+            "area_px": 38470,
+            "confidence": 1.012510895729065,
+            "label": "door",
+            "label_confidence": 0.4048
+        },
+        {
+            "item_id": 103,
+            "center_point": [
+                1474,
+                65
+            ],
+            "bbox_xywh": [
+                1289,
+                20,
+                370,
+                90
+            ],
+            "area_px": 26249,
+            "confidence": 0.9728024005889893,
+            "label": "lamp",
+            "label_confidence": 0.4434
+        },
+        {
+            "item_id": 104,
+            "center_point": [
+                2382,
+                878
+            ],
+            "bbox_xywh": [
+                2133,
+                827,
+                498,
+                103
+            ],
+            "area_px": 41313,
+            "confidence": 0.9631513953208923,
+            "label": "door",
+            "label_confidence": 0.8809
+        },
+        {
+            "item_id": 105,
+            "center_point": [
+                2570,
+                770
+            ],
+            "bbox_xywh": [
+                2529,
+                750,
+                82,
+                40
+            ],
+            "area_px": 2826,
+            "confidence": 0.9494838118553162,
+            "label": "shoe",
+            "label_confidence": 0.2728
+        },
+        {
+            "item_id": 106,
+            "center_point": [
+                2330,
+                716
+            ],
+            "bbox_xywh": [
+                2303,
+                689,
+                54,
+                54
+            ],
+            "area_px": 1562,
+            "confidence": 0.9426429867744446,
+            "label": "bed",
+            "label_confidence": 0.4425
+        },
+        {
+            "item_id": 107,
+            "center_point": [
+                2579,
+                774
+            ],
+            "bbox_xywh": [
+                2528,
+                750,
+                102,
+                48
+            ],
+            "area_px": 3710,
+            "confidence": 0.9422189593315125,
+            "label": "shoe",
+            "label_confidence": 0.366
+        },
+        {
+            "item_id": 108,
+            "center_point": [
+                2311,
+                707
+            ],
+            "bbox_xywh": [
+                2266,
+                673,
+                91,
+                69
+            ],
+            "area_px": 2405,
+            "confidence": 0.9219953417778015,
+            "label": "bed",
+            "label_confidence": 0.5255
+        },
+        {
+            "item_id": 109,
+            "center_point": [
+                2223,
+                770
+            ],
+            "bbox_xywh": [
+                2193,
+                752,
+                60,
+                36
+            ],
+            "area_px": 1654,
+            "confidence": 0.9205970764160156,
+            "label": "shoe",
+            "label_confidence": 0.4658
+        },
+        {
+            "item_id": 110,
+            "center_point": [
+                1992,
+                825
+            ],
+            "bbox_xywh": [
+                1940,
+                785,
+                104,
+                81
+            ],
+            "area_px": 6249,
+            "confidence": 0.8894606828689575,
+            "label": "books",
+            "label_confidence": 0.9913
+        },
+        {
+            "item_id": 111,
+            "center_point": [
+                2111,
+                695
+            ],
+            "bbox_xywh": [
+                2100,
+                670,
+                23,
+                51
+            ],
+            "area_px": 1063,
+            "confidence": 0.8618168830871582,
+            "label": "wall",
+            "label_confidence": 0.2944
+        },
+        {
+            "item_id": 112,
+            "center_point": [
+                796,
+                885
+            ],
+            "bbox_xywh": [
+                778,
+                870,
+                37,
+                31
+            ],
+            "area_px": 1045,
+            "confidence": 0.9535174369812012,
+            "label": "shoe",
+            "label_confidence": 0.2442
+        },
+        {
+            "item_id": 113,
+            "center_point": [
+                738,
+                863
+            ],
+            "bbox_xywh": [
+                686,
+                805,
+                104,
+                117
+            ],
+            "area_px": 10597,
+            "confidence": 0.9202288389205933,
+            "label": "books",
+            "label_confidence": 0.9993
+        },
+        {
+            "item_id": 114,
+            "center_point": [
+                53,
+                889
+            ],
+            "bbox_xywh": [
+                16,
+                874,
+                74,
+                30
+            ],
+            "area_px": 1353,
+            "confidence": 0.8868573904037476,
+            "label": "books",
+            "label_confidence": 0.2149
+        },
+        {
+            "item_id": 115,
+            "center_point": [
+                736,
+                824
+            ],
+            "bbox_xywh": [
+                689,
+                805,
+                95,
+                39
+            ],
+            "area_px": 2957,
+            "confidence": 0.872895359992981,
+            "label": "wall",
+            "label_confidence": 0.3912
+        },
+        {
+            "item_id": 116,
+            "center_point": [
+                2357,
+                661
+            ],
+            "bbox_xywh": [
+                1803,
+                315,
+                1108,
+                692
+            ],
+            "area_px": 406180,
+            "confidence": 0.9891974925994873,
+            "label": "folded clothes",
+            "label_confidence": 0.5853
+        },
+        {
+            "item_id": 117,
+            "center_point": [
+                1464,
+                664
+            ],
+            "bbox_xywh": [
+                1125,
+                412,
+                678,
+                505
+            ],
+            "area_px": 173129,
+            "confidence": 0.9837248921394348,
+            "label": "wall",
+            "label_confidence": 0.3336
+        },
+        {
+            "item_id": 118,
+            "center_point": [
+                580,
+                1202
+            ],
+            "bbox_xywh": [
+                512,
+                1165,
+                137,
+                74
+            ],
+            "area_px": 5791,
+            "confidence": 0.9772389531135559,
+            "label": "shoe",
+            "label_confidence": 0.9458
+        },
+        {
+            "item_id": 119,
+            "center_point": [
+                2799,
+                1327
+            ],
+            "bbox_xywh": [
+                2753,
+                1281,
+                93,
+                93
+            ],
+            "area_px": 3610,
+            "confidence": 0.9682828187942505,
+            "label": "floor",
+            "label_confidence": 0.4072
+        },
+        {
+            "item_id": 120,
+            "center_point": [
+                1293,
+                1123
+            ],
+            "bbox_xywh": [
+                834,
+                997,
+                919,
+                253
+            ],
+            "area_px": 43561,
+            "confidence": 0.9681763648986816,
+            "label": "folded clothes",
+            "label_confidence": 0.5187
+        },
+        {
+            "item_id": 121,
+            "center_point": [
+                2512,
+                746
+            ],
+            "bbox_xywh": [
+                2496,
+                687,
+                33,
+                118
+            ],
+            "area_px": 3498,
+            "confidence": 0.9428688883781433,
+            "label": "books",
+            "label_confidence": 0.6467
+        },
+        {
+            "item_id": 122,
+            "center_point": [
+                2705,
+                1219
+            ],
+            "bbox_xywh": [
+                2548,
+                1172,
+                315,
+                95
+            ],
+            "area_px": 13747,
+            "confidence": 0.9412122368812561,
+            "label": "folded clothes",
+            "label_confidence": 0.5366
+        },
+        {
+            "item_id": 123,
+            "center_point": [
+                2442,
+                1125
+            ],
+            "bbox_xywh": [
+                2390,
+                1027,
+                105,
+                197
+            ],
+            "area_px": 14839,
+            "confidence": 0.9397631883621216,
+            "label": "folded clothes",
+            "label_confidence": 0.8554
+        },
+        {
+            "item_id": 124,
+            "center_point": [
+                2259,
+                818
+            ],
+            "bbox_xywh": [
+                2228,
+                760,
+                63,
+                117
+            ],
+            "area_px": 5461,
+            "confidence": 0.9385100603103638,
+            "label": "shoe",
+            "label_confidence": 0.699
+        },
+        {
+            "item_id": 125,
+            "center_point": [
+                411,
+                1112
+            ],
+            "bbox_xywh": [
+                381,
+                1077,
+                60,
+                71
+            ],
+            "area_px": 3111,
+            "confidence": 0.936028003692627,
+            "label": "shoe",
+            "label_confidence": 0.9845
+        },
+        {
+            "item_id": 126,
+            "center_point": [
+                2570,
+                1061
+            ],
+            "bbox_xywh": [
+                2492,
+                1011,
+                157,
+                101
+            ],
+            "area_px": 11382,
+            "confidence": 0.9310708045959473,
+            "label": "bed",
+            "label_confidence": 0.5367
+        },
+        {
+            "item_id": 127,
+            "center_point": [
+                415,
+                1201
+            ],
+            "bbox_xywh": [
+                388,
+                1177,
+                54,
+                49
+            ],
+            "area_px": 1678,
+            "confidence": 0.9275424480438232,
+            "label": "shoe",
+            "label_confidence": 0.6063
+        },
+        {
+            "item_id": 128,
+            "center_point": [
+                2310,
+                1023
+            ],
+            "bbox_xywh": [
+                2145,
+                1003,
+                331,
+                41
+            ],
+            "area_px": 6621,
+            "confidence": 0.9235130548477173,
+            "label": "shoe",
+            "label_confidence": 0.5044
+        },
+        {
+            "item_id": 129,
+            "center_point": [
+                2236,
+                600
+            ],
+            "bbox_xywh": [
+                2209,
+                588,
+                55,
+                25
+            ],
+            "area_px": 1185,
+            "confidence": 0.9216682314872742,
+            "label": "wall",
+            "label_confidence": 0.5471
+        },
+        {
+            "item_id": 130,
+            "center_point": [
+                2669,
+                1208
+            ],
+            "bbox_xywh": [
+                2506,
+                1122,
+                327,
+                172
+            ],
+            "area_px": 19361,
+            "confidence": 0.91878741979599,
+            "label": "folded clothes",
+            "label_confidence": 0.6963
+        },
+        {
+            "item_id": 131,
+            "center_point": [
+                79,
+                741
+            ],
+            "bbox_xywh": [
+                0,
+                471,
+                158,
+                541
+            ],
+            "area_px": 15676,
+            "confidence": 0.9157624244689941,
+            "label": "door",
+            "label_confidence": 0.9672
+        },
+        {
+            "item_id": 132,
+            "center_point": [
+                718,
+                1078
+            ],
+            "bbox_xywh": [
+                616,
+                1033,
+                205,
+                91
+            ],
+            "area_px": 13351,
+            "confidence": 0.9152432084083557,
+            "label": "books",
+            "label_confidence": 0.6437
+        },
+        {
+            "item_id": 133,
+            "center_point": [
+                2548,
+                1012
+            ],
+            "bbox_xywh": [
+                2484,
+                993,
+                128,
+                38
+            ],
+            "area_px": 3014,
+            "confidence": 0.9119563698768616,
+            "label": "shoe",
+            "label_confidence": 0.36
+        },
+        {
+            "item_id": 134,
+            "center_point": [
+                2368,
+                1023
+            ],
+            "bbox_xywh": [
+                2261,
+                1003,
+                214,
+                41
+            ],
+            "area_px": 4600,
+            "confidence": 0.9108827114105225,
+            "label": "shoe",
+            "label_confidence": 0.3063
+        },
+        {
+            "item_id": 135,
+            "center_point": [
+                120,
+                749
+            ],
+            "bbox_xywh": [
+                104,
+                591,
+                33,
+                316
+            ],
+            "area_px": 9389,
+            "confidence": 0.9103646874427795,
+            "label": "door",
+            "label_confidence": 0.3285
+        },
+        {
+            "item_id": 136,
+            "center_point": [
+                2419,
+                776
+            ],
+            "bbox_xywh": [
+                2384,
+                758,
+                71,
+                37
+            ],
+            "area_px": 2087,
+            "confidence": 0.9080635905265808,
+            "label": "shoe",
+            "label_confidence": 0.5531
+        },
+        {
+            "item_id": 137,
+            "center_point": [
+                2372,
+                1140
+            ],
+            "bbox_xywh": [
+                2118,
+                1096,
+                509,
+                88
+            ],
+            "area_px": 25128,
+            "confidence": 0.9069854021072388,
+            "label": "shoe",
+            "label_confidence": 0.2795
+        },
+        {
+            "item_id": 138,
+            "center_point": [
+                2711,
+                1028
+            ],
+            "bbox_xywh": [
+                2671,
+                985,
+                81,
+                86
+            ],
+            "area_px": 4378,
+            "confidence": 0.8967418670654297,
+            "label": "folded clothes",
+            "label_confidence": 0.368
+        },
+        {
+            "item_id": 139,
+            "center_point": [
+                1474,
+                78
+            ],
+            "bbox_xywh": [
+                1449,
+                70,
+                50,
+                17
+            ],
+            "area_px": 774,
+            "confidence": 0.8950537443161011,
+            "label": "wall",
+            "label_confidence": 0.7091
+        },
+        {
+            "item_id": 140,
+            "center_point": [
+                2801,
+                1197
+            ],
+            "bbox_xywh": [
+                2722,
+                1165,
+                159,
+                64
+            ],
+            "area_px": 6998,
+            "confidence": 0.8948201537132263,
+            "label": "folded clothes",
+            "label_confidence": 0.5089
+        },
+        {
+            "item_id": 141,
+            "center_point": [
+                1609,
+                1281
+            ],
+            "bbox_xywh": [
+                1584,
+                1269,
+                51,
+                25
+            ],
+            "area_px": 724,
+            "confidence": 0.8921846747398376,
+            "label": "shoe",
+            "label_confidence": 0.2487
+        },
+        {
+            "item_id": 142,
+            "center_point": [
+                2055,
+                1085
+            ],
+            "bbox_xywh": [
+                1997,
+                1026,
+                117,
+                118
+            ],
+            "area_px": 10495,
+            "confidence": 0.8892204761505127,
+            "label": "folded clothes",
+            "label_confidence": 0.3819
+        },
+        {
+            "item_id": 143,
+            "center_point": [
+                1402,
+                890
+            ],
+            "bbox_xywh": [
+                1140,
+                840,
+                525,
+                101
+            ],
+            "area_px": 24602,
+            "confidence": 0.8827573657035828,
+            "label": "folded clothes",
+            "label_confidence": 0.8192
+        },
+        {
+            "item_id": 144,
+            "center_point": [
+                2382,
+                1324
+            ],
+            "bbox_xywh": [
+                2268,
+                1294,
+                228,
+                60
+            ],
+            "area_px": 8425,
+            "confidence": 0.8827564120292664,
+            "label": "folded clothes",
+            "label_confidence": 0.4518
+        },
+        {
+            "item_id": 145,
+            "center_point": [
+                2271,
+                780
+            ],
+            "bbox_xywh": [
+                2181,
+                687,
+                180,
+                187
+            ],
+            "area_px": 16353,
+            "confidence": 0.8767181634902954,
+            "label": "folded clothes",
+            "label_confidence": 0.8372
+        },
+        {
+            "item_id": 146,
+            "center_point": [
+                2053,
+                1158
+            ],
+            "bbox_xywh": [
+                2023,
+                1140,
+                60,
+                36
+            ],
+            "area_px": 1715,
+            "confidence": 0.8692688345909119,
+            "label": "shoe",
+            "label_confidence": 0.5211
+        },
+        {
+            "item_id": 147,
+            "center_point": [
+                855,
+                1122
+            ],
+            "bbox_xywh": [
+                843,
+                1098,
+                25,
+                48
+            ],
+            "area_px": 899,
+            "confidence": 0.8628424406051636,
+            "label": "shoe",
+            "label_confidence": 0.2605
+        },
+        {
+            "item_id": 148,
+            "center_point": [
+                2667,
+                1055
+            ],
+            "bbox_xywh": [
+                2651,
+                1041,
+                33,
+                28
+            ],
+            "area_px": 881,
+            "confidence": 0.8621233701705933,
+            "label": "shoe",
+            "label_confidence": 0.2935
+        },
+        {
+            "item_id": 149,
+            "center_point": [
+                2056,
+                1056
+            ],
+            "bbox_xywh": [
+                1998,
+                971,
+                117,
+                171
+            ],
+            "area_px": 16428,
+            "confidence": 0.9917356967926025,
+            "label": "folded clothes",
+            "label_confidence": 0.4239
+        },
+        {
+            "item_id": 150,
+            "center_point": [
+                2382,
+                965
+            ],
+            "bbox_xywh": [
+                2136,
+                914,
+                492,
+                102
+            ],
+            "area_px": 38850,
+            "confidence": 0.9866273403167725,
+            "label": "wooden nightstand",
+            "label_confidence": 0.4368
+        },
+        {
+            "item_id": 151,
+            "center_point": [
+                2214,
+                991
+            ],
+            "bbox_xywh": [
+                1770,
+                798,
+                889,
+                386
+            ],
+            "area_px": 163933,
+            "confidence": 0.9843640923500061,
+            "label": "folded clothes",
+            "label_confidence": 0.6095
+        },
+        {
+            "item_id": 152,
+            "center_point": [
+                2381,
+                925
+            ],
+            "bbox_xywh": [
+                2105,
+                668,
+                552,
+                515
+            ],
+            "area_px": 162894,
+            "confidence": 0.9779071807861328,
+            "label": "folded clothes",
+            "label_confidence": 0.558
+        },
+        {
+            "item_id": 153,
+            "center_point": [
+                2619,
+                1194
+            ],
+            "bbox_xywh": [
+                2328,
+                969,
+                583,
+                451
+            ],
+            "area_px": 82210,
+            "confidence": 0.9718493223190308,
+            "label": "folded clothes",
+            "label_confidence": 0.6681
+        },
+        {
+            "item_id": 154,
+            "center_point": [
+                2011,
+                1368
+            ],
+            "bbox_xywh": [
+                1476,
+                1299,
+                1070,
+                139
+            ],
+            "area_px": 65336,
+            "confidence": 0.9705678224563599,
+            "label": "shoe",
+            "label_confidence": 0.713
+        },
+        {
+            "item_id": 155,
+            "center_point": [
+                2646,
+                1214
+            ],
+            "bbox_xywh": [
+                2548,
+                1172,
+                197,
+                84
+            ],
+            "area_px": 11234,
+            "confidence": 0.9685850143432617,
+            "label": "floor",
+            "label_confidence": 0.3702
+        },
+        {
+            "item_id": 156,
+            "center_point": [
+                2740,
+                1420
+            ],
+            "bbox_xywh": [
+                2570,
+                1403,
+                341,
+                35
+            ],
+            "area_px": 8763,
+            "confidence": 0.9653791785240173,
+            "label": "wall",
+            "label_confidence": 0.3506
+        },
+        {
+            "item_id": 157,
+            "center_point": [
+                2593,
+                1332
+            ],
+            "bbox_xywh": [
+                2276,
+                1243,
+                635,
+                178
+            ],
+            "area_px": 57665,
+            "confidence": 0.9623064994812012,
+            "label": "floor",
+            "label_confidence": 0.3422
+        },
+        {
+            "item_id": 158,
+            "center_point": [
+                2398,
+                1162
+            ],
+            "bbox_xywh": [
+                2283,
+                1025,
+                230,
+                274
+            ],
+            "area_px": 34993,
+            "confidence": 0.9611191153526306,
+            "label": "folded clothes",
+            "label_confidence": 0.899
+        },
+        {
+            "item_id": 159,
+            "center_point": [
+                2380,
+                907
+            ],
+            "bbox_xywh": [
+                2103,
+                797,
+                555,
+                221
+            ],
+            "area_px": 102590,
+            "confidence": 0.9603869915008545,
+            "label": "folded clothes",
+            "label_confidence": 0.3932
+        },
+        {
+            "item_id": 160,
+            "center_point": [
+                1777,
+                943
+            ],
+            "bbox_xywh": [
+                1678,
+                806,
+                199,
+                275
+            ],
+            "area_px": 23872,
+            "confidence": 0.9603161215782166,
+            "label": "folded clothes",
+            "label_confidence": 0.3168
+        },
+        {
+            "item_id": 161,
+            "center_point": [
+                2841,
+                1225
+            ],
+            "bbox_xywh": [
+                2771,
+                1208,
+                140,
+                35
+            ],
+            "area_px": 4063,
+            "confidence": 0.9474258422851562,
+            "label": "shoe",
+            "label_confidence": 0.2984
+        },
+        {
+            "item_id": 162,
+            "center_point": [
+                1687,
+                1309
+            ],
+            "bbox_xywh": [
+                1548,
+                1261,
+                279,
+                97
+            ],
+            "area_px": 18158,
+            "confidence": 0.9431079626083374,
+            "label": "shoe",
+            "label_confidence": 0.6809
+        },
+        {
+            "item_id": 163,
+            "center_point": [
+                2694,
+                977
+            ],
+            "bbox_xywh": [
+                2646,
+                950,
+                96,
+                55
+            ],
+            "area_px": 3803,
+            "confidence": 0.9427875876426697,
+            "label": "floor",
+            "label_confidence": 0.2618
+        },
+        {
+            "item_id": 164,
+            "center_point": [
+                2382,
+                1065
+            ],
+            "bbox_xywh": [
+                2119,
+                1010,
+                526,
+                110
+            ],
+            "area_px": 27437,
+            "confidence": 0.9309200644493103,
+            "label": "folded clothes",
+            "label_confidence": 0.9422
+        },
+        {
+            "item_id": 165,
+            "center_point": [
+                2703,
+                1006
+            ],
+            "bbox_xywh": [
+                2646,
+                950,
+                115,
+                112
+            ],
+            "area_px": 6115,
+            "confidence": 0.9251281023025513,
+            "label": "folded clothes",
+            "label_confidence": 0.9002
+        },
+        {
+            "item_id": 166,
+            "center_point": [
+                1458,
+                1397
+            ],
+            "bbox_xywh": [
+                1346,
+                1362,
+                224,
+                71
+            ],
+            "area_px": 7353,
+            "confidence": 0.897172749042511,
+            "label": "shoe",
+            "label_confidence": 0.5346
+        },
+        {
+            "item_id": 167,
+            "center_point": [
+                2551,
+                1129
+            ],
+            "bbox_xywh": [
+                2476,
+                1092,
+                151,
+                74
+            ],
+            "area_px": 7197,
+            "confidence": 0.887291669845581,
+            "label": "door",
+            "label_confidence": 0.2899
+        },
+        {
+            "item_id": 168,
+            "center_point": [
+                755,
+                1190
+            ],
+            "bbox_xywh": [
+                0,
+                972,
+                1511,
+                437
+            ],
+            "area_px": 264258,
+            "confidence": 1.027361273765564,
+            "label": "bed",
+            "label_confidence": 0.2637
+        },
+        {
+            "item_id": 169,
+            "center_point": [
+                1271,
+                1075
+            ],
+            "bbox_xywh": [
+                1111,
+                914,
+                321,
+                323
+            ],
+            "area_px": 39924,
+            "confidence": 0.9800645709037781,
+            "label": "folded clothes",
+            "label_confidence": 0.6095
+        },
+        {
+            "item_id": 170,
+            "center_point": [
+                1112,
+                833
+            ],
+            "bbox_xywh": [
+                1039,
+                809,
+                147,
+                49
+            ],
+            "area_px": 2861,
+            "confidence": 0.9462928175926208,
+            "label": "shoe",
+            "label_confidence": 0.3483
+        },
+        {
+            "item_id": 171,
+            "center_point": [
+                1207,
+                1033
+            ],
+            "bbox_xywh": [
+                826,
+                881,
+                762,
+                304
+            ],
+            "area_px": 81876,
+            "confidence": 0.944208025932312,
+            "label": "messy pile of clothes",
+            "label_confidence": 0.5451
+        },
+        {
+            "item_id": 172,
+            "center_point": [
+                718,
+                1045
+            ],
+            "bbox_xywh": [
+                589,
+                918,
+                259,
+                255
+            ],
+            "area_px": 37500,
+            "confidence": 0.9370583891868591,
+            "label": "wooden nightstand",
+            "label_confidence": 0.7821
+        },
+        {
+            "item_id": 173,
+            "center_point": [
+                881,
+                1379
+            ],
+            "bbox_xywh": [
+                333,
+                1322,
+                1097,
+                114
+            ],
+            "area_px": 79820,
+            "confidence": 0.9238729476928711,
+            "label": "shoe",
+            "label_confidence": 0.6632
+        },
+        {
+            "item_id": 174,
+            "center_point": [
+                978,
+                866
+            ],
+            "bbox_xywh": [
+                889,
+                828,
+                179,
+                76
+            ],
+            "area_px": 6953,
+            "confidence": 0.9135313630104065,
+            "label": "bed",
+            "label_confidence": 0.3949
+        },
+        {
+            "item_id": 175,
+            "center_point": [
+                205,
+                1055
+            ],
+            "bbox_xywh": [
+                157,
+                1027,
+                97,
+                56
+            ],
+            "area_px": 3478,
+            "confidence": 0.9069796204566956,
+            "label": "shoe",
+            "label_confidence": 0.9884
+        },
+        {
+            "item_id": 176,
+            "center_point": [
+                715,
+                937
+            ],
+            "bbox_xywh": [
+                690,
+                927,
+                50,
+                21
+            ],
+            "area_px": 780,
+            "confidence": 0.9068334698677063,
+            "label": "shoe",
+            "label_confidence": 0.4089
+        },
+        {
+            "item_id": 177,
+            "center_point": [
+                1008,
+                861
+            ],
+            "bbox_xywh": [
+                836,
+                808,
+                344,
+                106
+            ],
+            "area_px": 21154,
+            "confidence": 0.8919538855552673,
+            "label": "bed",
+            "label_confidence": 0.8762
+        },
+        {
+            "item_id": 178,
+            "center_point": [
+                1455,
+                225
+            ],
+            "bbox_xywh": [
+                0,
+                0,
+                2911,
+                451
+            ],
+            "area_px": 1047529,
+            "confidence": 1.0375829935073853,
+            "label": "lamp",
+            "label_confidence": 0.8596
+        },
+        {
+            "item_id": 179,
+            "center_point": [
+                2854,
+                755
+            ],
+            "bbox_xywh": [
+                2798,
+                482,
+                113,
+                547
+            ],
+            "area_px": 50212,
+            "confidence": 1.0019266605377197,
+            "label": "door",
+            "label_confidence": 0.9798
+        },
+        {
+            "item_id": 180,
+            "center_point": [
+                876,
+                689
+            ],
+            "bbox_xywh": [
+                0,
+                313,
+                1753,
+                753
+            ],
+            "area_px": 547797,
+            "confidence": 0.9803426861763,
+            "label": "folded clothes",
+            "label_confidence": 0.2865
+        },
+        {
+            "item_id": 181,
+            "center_point": [
+                562,
+                682
+            ],
+            "bbox_xywh": [
+                0,
+                313,
+                1124,
+                739
+            ],
+            "area_px": 557190,
+            "confidence": 0.980035662651062,
+            "label": "wall",
+            "label_confidence": 0.2728
+        },
+        {
+            "item_id": 182,
+            "center_point": [
+                1455,
+                1197
+            ],
+            "bbox_xywh": [
+                0,
+                974,
+                2911,
+                446
+            ],
+            "area_px": 428914,
+            "confidence": 0.9782100915908813,
+            "label": "folded clothes",
+            "label_confidence": 0.8267
+        },
+        {
+            "item_id": 183,
+            "center_point": [
+                2440,
+                990
+            ],
+            "bbox_xywh": [
+                2108,
+                797,
+                664,
+                386
+            ],
+            "area_px": 160887,
+            "confidence": 0.9562004804611206,
+            "label": "folded clothes",
+            "label_confidence": 0.736
+        },
+        {
+            "item_id": 184,
+            "center_point": [
+                1403,
+                693
+            ],
+            "bbox_xywh": [
+                0,
+                313,
+                2806,
+                760
+            ],
+            "area_px": 737147,
+            "confidence": 0.9506285786628723,
+            "label": "folded clothes",
+            "label_confidence": 0.7958
+        },
+        {
+            "item_id": 185,
+            "center_point": [
+                2118,
+                1362
+            ],
+            "bbox_xywh": [
+                1743,
+                1296,
+                751,
+                133
+            ],
+            "area_px": 41855,
+            "confidence": 0.8981999754905701,
+            "label": "shoe",
+            "label_confidence": 0.3887
+        }
+    ]
+}
